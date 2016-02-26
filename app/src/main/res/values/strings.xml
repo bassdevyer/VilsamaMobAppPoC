@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vilsama Mobile App PoC</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="username_hint">Nombre de usuario</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="login_text">Iniciar sesión</string>
+    <string name="generic_option">Opción</string>
+</resources>
